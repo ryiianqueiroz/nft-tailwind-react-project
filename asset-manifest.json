@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nft-tailwind-react-project/static/css/main.5b5f3931.css",
+    "main.js": "/nft-tailwind-react-project/static/js/main.e0d37187.js",
+    "static/media/image-equilibrium.jpg": "/nft-tailwind-react-project/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/nft-tailwind-react-project/index.html",
+    "static/media/icon-clock.svg": "/nft-tailwind-react-project/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/nft-tailwind-react-project/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.5b5f3931.css.map": "/nft-tailwind-react-project/static/css/main.5b5f3931.css.map",
+    "main.e0d37187.js.map": "/nft-tailwind-react-project/static/js/main.e0d37187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b5f3931.css",
+    "static/js/main.e0d37187.js"
+  ]
+}
